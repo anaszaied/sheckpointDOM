@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background-color: #EEA47FFF;
+   
+  }
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #00539CFF;
+  }
+  .bord {
+    display: flex;
+    justify-content: space-around;
+    width: 250px;
+    list-style: none;
+  }
+  .bodytotal{
+    display: flex;
+    justify-content: space-around;
+  }
+  .items {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  h1 {
+    text-align: center;
+  }
+  button {
+    width: 70px;
+  }
+  .like-btn {
+    color: black;
+  }
+  
